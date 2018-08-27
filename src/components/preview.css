@@ -1,0 +1,14 @@
+.preview {
+    text-align: center;
+}
+.image {
+    position: absolute;
+    left: 40%;
+    width: 800px;
+    height: 100px;
+    margin-left: -250px;
+}
+
+.print-btn {
+    margin-top: 150px;
+}

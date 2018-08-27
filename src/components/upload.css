@@ -1,0 +1,28 @@
+html, body {
+    margin: 10px;
+}
+.upload-container {
+    margin: 10px;
+    text-align: center;
+}
+
+input[type=number] {
+    border: 1px solid gray;
+    border-radius: 3%;
+    width: 55px;
+    margin: 3px;
+    padding: 8px;
+}
+
+button {
+    border: 1px solid gray;
+    border-radius: 5%;
+    margin: 5px;
+    padding: 10px;
+    background-color: whitesmoke;
+}
+
+button a {
+    text-decoration: none;
+    color: inherit;
+}
